@@ -1,4 +1,5 @@
-theme: hacker
+theme: minima
+markdown: kramdown
 #remote_theme: zerostaticthemes/jekyll-serif-theme
 #remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
 #remote_theme: zerostaticthemes/jekyll-atlantic-theme
