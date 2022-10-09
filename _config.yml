@@ -1,2 +1,5 @@
 #remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
 remote_theme: zerostaticthemes/jekyll-atlantic-theme
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://joachim.page/" # the base hostname & protocol for your site, e.g. https://example.com
+favicon: "" # the favicon for your site
