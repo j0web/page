@@ -1,1 +1,9 @@
-test post
+---
+layout: post
+title: Test post
+subtitle: Each post also has a subtitle
+categories: markdown
+tags: test
+---
+
+# Page de test
