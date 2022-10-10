@@ -196,7 +196,7 @@ night_mode: "manual"
 # set follow_site_theme true to make utterances' theme follow the site's
 
 utterances:
-   repo: "GeekFr/comments.page"
+   repo: "GeekFr/comments"
    issue_term: "title"
    label: "utterances comment"
    theme: "github-light"
