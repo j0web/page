@@ -10,9 +10,9 @@ Pour les présentations, sachez que je suis un homme de 50 ans exerçant depuis 
 
 Malheureusement et ce depuis trop longtemps, mon métier ne suffit plus à étancher ma soif de curiosité. C'est devenu une activité purement alimentaire mais que j'exerce avec plaisir quand même, c'est important de le préciser.
 
-En même temps, je n'ai jamais eu aucune passion, donc il aurait été difficile d'en trouver une à travers de mon métier.
+En même temps, je n'ai jamais eu aucune passion, donc il aurait été difficile d'en trouver une à travers mon métier.
 
-Sans passion donc mais avec des centres d'intérêts nombreux et très variés, que je partagerai peut-être un jour ici.
+Sans passion donc, mais avec des centres d'intérêts nombreux et très variés, que je partagerai peut-être un jour ici.
 
 Après m'être essayé à PHP, Python, je balaie aujourd'hui le SSG Jekyll, en découvrant un peu Ruby au passage.
 
