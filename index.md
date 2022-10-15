@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Bienvenue
 ---
 
 # Bienvenue sur cette page sans prétention aucune !
