@@ -25,8 +25,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Joachim's page
-email: geek@joachim.page
-author: GeekFR
+email: dev@joachim.page
+author: Joachim
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
