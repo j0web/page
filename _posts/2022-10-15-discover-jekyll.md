@@ -2,7 +2,7 @@
 layout: post
 title: Discover Jekyll
 author: Joachim
-categories: Static Site Generator
+categories: Static_Site_Generator
 tags: jekyll
 ---
 
