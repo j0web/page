@@ -27,7 +27,7 @@ Après m'être essayé à PHP, et un peu de Python, je balaie aujourd'hui le SSG
 
 Vous l'aurez compris, je suis loin d'être un expert mais découvrir de nouvelles technologies me permet tout simplement de me faire plaisir, tout en apprenant.
 
-Peut-être qu'un jour même, ces nouveaux apprentissage me serviront dans le domaine professionnel. Cela pourrait être sympa mais je n'en suis pas encore là.
+Peut-être qu'un jour même, ces nouveaux apprentissages me serviront dans le domaine professionnel. Cela pourrait être sympa mais je n'en suis pas encore là.
 
 Pour le moment, on va donc essayer de construire un petit site sympa, déjà pour moi et peut-être un peu pour les autres aussi, s'ils y trouvent un quelconque intérêt. Mais ça se fera, sans objectif, ni délai. Bref, tout ce qui me change de mon quotdien. 
 
