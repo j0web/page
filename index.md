@@ -27,7 +27,7 @@ Vous l'aurez compris, je suis loin d'être un expert mais découvrir de nouvelle
 
 Peut-être qu'un jour même, ces nouveaux apprentissage me serviront dans le domaine professionnel. Cela pourrait être sympa mais je n'en suis pas encore là.
 
-Pour le moement, on va donc essayer de construire un petit site sympa, déjà pour moi et peut-être un peu pour les autres aussi, s'ils y trouvent un quelconque intérêt. Mais ça se fera, sans objectif, ni délai. Bref, tout ce qui me change de mon quotdien. 
+Pour le moment, on va donc essayer de construire un petit site sympa, déjà pour moi et peut-être un peu pour les autres aussi, s'ils y trouvent un quelconque intérêt. Mais ça se fera, sans objectif, ni délai. Bref, tout ce qui me change de mon quotdien. 
 
 Uniquement du plaisir, donc !
 
