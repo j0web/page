@@ -19,7 +19,9 @@ Sans passion donc, mais avec des centres d'intérêts nombreux et très variés,
 
 Mes premières expériences en programmation, remontent aux années 80. Tout d'abord, sur un TI 99/4A (toujours en ma possession) puis un TO7. Le langage roi était alors le Basic. À cette époque, il fallait passer des heures avant de voir s'animer quelques amas de pixels, qu'on appelait jeux vidéo. Du rudimentaire donc mais aussi d'excellents souvenirs, liés à l'enfance d'autant plus.
 
-Puis plus rien pendant de nombreuses années. Je suis revenu à l'informatique à la fin des années 90, pardonnez ces termes désuets mais ils collent parfaitement à l'époque dont je parle, avec un Power Mac 7200 tournant à 75 Mhz ! S'en sont suivis un iMac 233 Mhz, un 400 Mhz, puis un MDD 1,25 Ghz et quelques autres encore... Aujourd'hui, je tourne toujours sur Mac OS avec un mini mais mon PC portable tourne sous GNU/Linux avec une distribution Pop OS.
+Puis plus rien pendant de nombreuses années. Je suis revenu à l'informatique à la fin des années 90, pardonnez ces termes désuets mais ils collent parfaitement à l'époque dont je parle, avec un Power Mac 7200 tournant à 75 Mhz ! S'en sont suivis un iMac 233 Mhz, un 400 Mhz, puis un MDD 1,25 Ghz et quelques autres encore... Aujourd'hui, je tourne toujours sur Mac OS avec un mini mais mon PC portable tourne sous GNU/Linux avec une distribution Pop OS. 
+
+Je suis aussi très attaché aux libertés fondamentales d'une manière générale et très sensible au respect de mes données personnelles. C'est pourquoi, dès que je le peux, je me tourne vers le libre et l'open source. Je pourrai vous parler longtemps de ce sujet auquel je suis attaché, car pour moi la liberté va de pair avec l'indépendance. Un sujet sur lequel, la France comme l'Europe perdent du terrain chaque jour un peu plus et pas seulement sur le numérique. De mon point de vue, c'est un désastre mais passons car je ne voudrais pas vous gâcher la journée non plus ;-).
 
 Après m'être essayé à PHP, et un peu de Python, je balaie aujourd'hui le SSG Jekyll, en découvrant un peu Ruby au passage.
 
